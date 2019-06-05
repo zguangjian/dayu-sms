@@ -1,0 +1,19 @@
+{
+  "name": "ZGuangJian/dayuSms",
+  "description": "DayuSms",
+  "keywords": ["dayu", "sms"],
+
+  "authors": [{
+      "name"  : "ZGuangJian",
+      "email" : "ZGuangJian@outlook.com"
+  }],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZGuangJian\\": "src/"
+    }
+  }
+}
